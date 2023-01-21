@@ -1,5 +1,5 @@
 import React from "react";
-import LG from "../images/SG.png";
+import LG from "../images/CC.jpg";
 
 const Rules9 = () => {
 	return (
