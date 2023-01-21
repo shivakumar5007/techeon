@@ -1,0 +1,9 @@
+GSTIN/UIN of Recipient,Receiver Name,Original Note Number,Original Note Date,Revised Note Number,Revised Note Date,Note Type,Place Of Supply,Reverse Charge,Note Supply Type,Note Value,Applicable % of Tax Rate,Rate,Taxable Value,Cess Amount
+12GEOPS0823BBZH,Kumar,90001,15-Jul-17,90001,15-Jul-17,C,33-Tamil Nadu,Y,Regular,52000.00,65.00,12.00,0.00,
+12GEOPS0823BBZH,Kumar,90002,15-Jul-17,90002,15-Jul-17,C,10-Bihar,N,Deemed Exp,0.00,,12.00,50000.00,
+12GEOPS0823BBZH,Kumar,90003,15-Jul-17,90003,15-Jul-17,C,07-Delhi,N,SEZ supplies with payment,20000.00,,5.00,25000.00,100.00
+12GEOPS0823BBZH,Kumar,90004,15-Jul-17,90004,15-Jul-17,D,33-Tamil Nadu,N,SEZ supplies without payment,50000.00,,5.00,20000.00,100.00
+12GEOPS0823BBZH,Kumar,90005,15-Jul-17,90005,15-Jul-17,C,12-Arunachal Pradesh,N,Regular,90000.00,,18.00,40000.00,200.00
+12GEOPS0823BBZH,Kumar,90005,15-Jul-17,90005,15-Jul-17,C,07-Delhi,N,Deemed Exp,90000.00,,3.00,40000.00,
+12GEOPS0823BBZH,Kumar,90007,16-Jul-17,90007,16-Jul-17,C,27-Maharashtra,Y,Regular,90000.00,,12.00,81000.00,
+12GEOPS0823BBZH,Kumar,90008,17-Jul-17,90008,17-Jul-17,C,33-Tamil Nadu,N,Intra-State supplies attracting IGST,90000.00,65.00,5.00,88000.00,
